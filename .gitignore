@@ -1,0 +1,17 @@
+# IDE - VSCode
+.vscode
+
+#IDE - InetlliJ
+.idea
+
+# Dependencies
+node_modules
+
+# Output
+dist
+
+# System files
+.DS_Store
+
+# Environment variables
+.env
